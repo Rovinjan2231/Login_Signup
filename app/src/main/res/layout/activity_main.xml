@@ -87,12 +87,12 @@
                 app:layout_constraintTop_toTopOf="parent">
 
                 <ImageView
-                    android:layout_width="101dp"
-                    android:layout_height="141dp"
+                    android:layout_width="206dp"
+                    android:layout_height="160dp"
                     android:layout_margin="8dp"
                     android:contentDescription="@string/app_name"
                     android:padding="8dp"
-                    android:src="@drawable/paglikas_logo"></ImageView>
+                    android:src="@drawable/paglikas"></ImageView>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -122,12 +122,12 @@
                 app:layout_constraintTop_toTopOf="parent">
 
                 <ImageView
-                    android:layout_width="114dp"
-                    android:layout_height="141dp"
+                    android:layout_width="206dp"
+                    android:layout_height="160dp"
                     android:layout_margin="8dp"
                     android:contentDescription="@string/app_name"
                     android:padding="8dp"
-                    android:src="@drawable/pagarobulig_logo"></ImageView>
+                    android:src="@drawable/pagarobulig"></ImageView>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -157,12 +157,12 @@
                 app:layout_constraintTop_toTopOf="parent">
 
                 <ImageView
-                    android:layout_width="wrap_content"
-                    android:layout_height="153dp"
+                    android:layout_width="206dp"
+                    android:layout_height="160dp"
                     android:layout_margin="8dp"
                     android:contentDescription="@string/app_name"
                     android:padding="8dp"
-                    android:src="@drawable/faq_logo"></ImageView>
+                    android:src="@drawable/faq"></ImageView>
 
                 <TextView
                     android:layout_width="match_parent"
@@ -198,7 +198,7 @@
                     android:contentDescription="@string/app_name"
                     android:padding="8dp"
 
-                    android:src="@drawable/"></ImageView>
+                    android:src="@drawable/pagandam"></ImageView>
 
                 <TextView
                     android:layout_width="match_parent"
