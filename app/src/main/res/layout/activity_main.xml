@@ -19,8 +19,8 @@
             android:id="@+id/textHello"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="16dp"
+            android:layout_marginStart="92dp"
+            android:layout_marginTop="32dp"
             android:text="Hello"
             android:textColor="@color/white"
             android:textSize="25sp"
@@ -31,14 +31,29 @@
             android:id="@+id/textUsername"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="4dp"
-            android:layout_marginTop="15dp"
+            android:layout_marginStart="28dp"
+            android:layout_marginTop="44dp"
             android:text="Rovin"
             android:textColor="@color/white"
             android:textSize="25sp"
             android:textStyle="bold"
             app:layout_constraintStart_toEndOf="@id/textHello"
             app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/imageMenu"
+            android:layout_width="62dp"
+            android:layout_height="56dp"
+            android:layout_marginEnd="12dp"
+            android:contentDescription="app_name"
+            android:src="@drawable/ic_baseline_menu"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/textHello"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.761">
+
+        </ImageView>
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 
