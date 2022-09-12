@@ -13,8 +13,8 @@ public class Login_Page extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login_page);
-        TextView btn=findViewById(R.id.signup_button);
-        btn.setOnClickListener(new View.OnClickListener() {
+        TextView btn_signup=findViewById(R.id.sign_up);
+        btn_signup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(Login_Page.this, Signup_Page.class));

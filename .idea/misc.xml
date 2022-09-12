@@ -3,11 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/DELL/Login_Signup2/app/src/main/res/drawable/signup_borderline.xml" value="0.275" />
-        <entry key="..\:/Users/DELL/Login_Signup2/app/src/main/res/layout/activity_login_page.xml" value="0.371875" />
-        <entry key="..\:/Users/DELL/Login_Signup2/app/src/main/res/layout/activity_main.xml" value="0.35572916666666665" />
-        <entry key="..\:/Users/DELL/Login_Signup2/app/src/main/res/layout/activity_signup_page.xml" value="0.33" />
-        <entry key="..\:/Users/DELL/Login_Signup2/app/src/main/res/layout/login_page.xml" value="0.25" />
+        <entry key="..\:/Users/Rovin/AndroidStudioProjects/Login_Signup2/app/src/main/res/drawable/ic_baseline_address.xml" value="0.227" />
+        <entry key="..\:/Users/Rovin/AndroidStudioProjects/Login_Signup2/app/src/main/res/layout/activity_main.xml" value="0.2841880341880342" />
+        <entry key="..\:/Users/Rovin/AndroidStudioProjects/Login_Signup2/app/src/main/res/layout/activity_signup_page.xml" value="0.297008547008547" />
+        <entry key="..\:/Users/Rovin/AndroidStudioProjects/Login_Signup2/app/src/main/res/layout/login_page.xml" value="0.30520833333333336" />
       </map>
     </option>
   </component>
